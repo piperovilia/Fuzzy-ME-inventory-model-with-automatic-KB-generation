@@ -1,0 +1,2 @@
+ScCost FR holdingCosts penaltyCosts orderCosts setupCosts productionCosts purchaseCosts transportCosts
+2245266.1010783175 1.0 1135918.2900000005 96100.0 304925.0 63600.0 311455.1400000002 234925.2410783172 135542.42999999993 
