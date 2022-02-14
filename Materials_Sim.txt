@@ -1,0 +1,4 @@
+material_code	type_code	unit_size	description
+CC-F01	FERT	0.5	500g-Original-Muesli
+CC-R01	ROH	1	Wheat
+CC-R02	ROH	1	Oats

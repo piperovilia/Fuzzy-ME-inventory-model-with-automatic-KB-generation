@@ -1,0 +1,2 @@
+material_code	CC-R01	CC-R02
+CC-F01	0.4	0.6

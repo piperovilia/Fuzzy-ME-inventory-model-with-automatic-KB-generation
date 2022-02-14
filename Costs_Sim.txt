@@ -1,0 +1,19 @@
+inventory_id	material_code	cost_type	cost	unit
+02	CC-F01	h	0.16	per unit per time
+02	CC-F01	b	3100	per order
+02	CC-F01	c_s	265	per production order
+02	CC-F01	c_p	0.62	per unit
+P	CC-R01	h	0.2	per unit per time
+P	CC-R02	h	0.17	per unit per time
+P	CC-F01	b	3100	per order
+P	CC-R01	c_o	325	per order
+P	CC-R02	c_o	325	per order
+02W	CC-F01	h	0.16	per unit per time
+02W	CC-F01	b	3100	per order
+02W	CC-F01	c_o	550	per order
+02N	CC-F01	h	0.16	per unit per time
+02N	CC-F01	b	3100	per order
+02N	CC-F01	c_o	550	per order
+02S	CC-F01	h	0.16	per unit per time
+02S	CC-F01	b	3100	per order
+02S	CC-F01	c_o	550	per order

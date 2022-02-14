@@ -1,0 +1,18 @@
+num_nodes	16	
+id	stage_type	description
+P	PLANT	Plant
+02	WH	Warehouse
+02W	DIST	Distributor_west
+02N	DIST	Distributor_north
+02S	DIST	Distributor_south
+V1	VD	Vendor1
+V2	VD	Vendor2
+GC02N	CUST	Grocery_chain_distributor_north
+IG02N	CUST	Independent_grocer_distributor_north
+H02N	CUST	Hypermarket_distributor_north
+GC02W	CUST	Grocery_chain_distributor_west
+IG02W	CUST	Independent_grocer_distributor_west
+H02W	CUST	Hypermarket_distributor_west
+GC02S	CUST	Grocery_chain_distributor_south
+IG02S	CUST	Independent_grocer_distributor_south
+H02S	CUST	Hypermarket_distributor_south

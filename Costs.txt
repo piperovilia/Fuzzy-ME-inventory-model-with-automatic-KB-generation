@@ -1,0 +1,189 @@
+inventory_id	material_code	cost_type	cost	unit
+2	CC-F01	h	0.19	per unit per time
+2	CC-F02	h	0.28	per unit per time
+2	CC-F03	h	0.29	per unit per time
+2	CC-F04	h	0.17	per unit per time
+2	CC-F05	h	0.16	per unit per time
+2	CC-F06	h	0.32	per unit per time
+2	CC-F11	h	0.34	per unit per time
+2	CC-F12	h	0.51	per unit per time
+2	CC-F13	h	0.52	per unit per time
+2	CC-F14	h	0.29	per unit per time
+2	CC-F15	h	0.27	per unit per time
+2	CC-F16	h	0.6	per unit per time
+2	CC-F01	b	0	per order
+2	CC-F02	b	0	per order
+2	CC-F03	b	0	per order
+2	CC-F04	b	0	per order
+2	CC-F05	b	0	per order
+2	CC-F06	b	0	per order
+2	CC-F11	b	0	per order
+2	CC-F12	b	0	per order
+2	CC-F13	b	0	per order
+2	CC-F14	b	0	per order
+2	CC-F15	b	0	per order
+2	CC-F16	b	0	per order
+2	CC-F01	c_s	600	per production order
+2	CC-F02	c_s	600	per production order
+2	CC-F03	c_s	600	per production order
+2	CC-F04	c_s	600	per production order
+2	CC-F05	c_s	600	per production order
+2	CC-F06	c_s	600	per production order
+2	CC-F11	c_s	800	per production order
+2	CC-F12	c_s	800	per production order
+2	CC-F13	c_s	800	per production order
+2	CC-F14	c_s	800	per production order
+2	CC-F15	c_s	800	per production order
+2	CC-F16	c_s	800	per production order
+2	CC-F01	c_p	0.33	per unit
+2	CC-F02	c_p	0.47	per unit
+2	CC-F03	c_p	0.48	per unit
+2	CC-F04	c_p	0.29	per unit
+2	CC-F05	c_p	0.27	per unit
+2	CC-F06	c_p	0.55	per unit
+2	CC-F11	c_p	0.57	per unit
+2	CC-F12	c_p	0.86	per unit
+2	CC-F13	c_p	0.88	per unit
+2	CC-F14	c_p	0.49	per unit
+2	CC-F15	c_p	0.46	per unit
+2	CC-F16	c_p	1.01	per unit
+P	CC-P01	h	0.06	per unit per time
+P	CC-P02	h	0.03	per unit per time
+P	CC-P03	h	0.05	per unit per time
+P	CC-P04	h	0.02	per unit per time
+P	CC-R01	h	0.4	per unit per time
+P	CC-R02	h	0.97	per unit per time
+P	CC-R03	h	1.01	per unit per time
+P	CC-R04	h	0.24	per unit per time
+P	CC-R05	h	0.2	per unit per time
+P	CC-R06	h	0.17	per unit per time
+P	CC-F01	b	10700	per order
+P	CC-F02	b	10650	per order
+P	CC-F03	b	11250	per order
+P	CC-F04	b	11750	per order
+P	CC-F05	b	14175	per order
+P	CC-F06	b	10300	per order
+P	CC-F11	b	13750	per order
+P	CC-F12	b	16575	per order
+P	CC-F13	b	15175	per order
+P	CC-F14	b	13180	per order
+P	CC-F15	b	14350	per order
+P	CC-F16	b	12975	per order
+P	CC-P01	c_o	400	per order
+P	CC-P02	c_o	400	per order
+P	CC-P03	c_o	400	per order
+P	CC-P04	c_o	400	per order
+P	CC-R01	c_o	1000	per order
+P	CC-R02	c_o	1000	per order
+P	CC-R03	c_o	1000	per order
+P	CC-R04	c_o	1000	per order
+P	CC-R05	c_o	1000	per order
+P	CC-R06	c_o	1000	per order
+02W	CC-F01	h	0.19	per unit per time
+02W	CC-F02	h	0.28	per unit per time
+02W	CC-F03	h	0.29	per unit per time
+02W	CC-F04	h	0.17	per unit per time
+02W	CC-F05	h	0.16	per unit per time
+02W	CC-F06	h	0.32	per unit per time
+02W	CC-F11	h	0.34	per unit per time
+02W	CC-F12	h	0.51	per unit per time
+02W	CC-F13	h	0.52	per unit per time
+02W	CC-F14	h	0.29	per unit per time
+02W	CC-F15	h	0.27	per unit per time
+02W	CC-F16	h	0.6	per unit per time
+02W	CC-F01	b	10700	per order
+02W	CC-F02	b	10650	per order
+02W	CC-F03	b	11250	per order
+02W	CC-F04	b	11750	per order
+02W	CC-F05	b	14175	per order
+02W	CC-F06	b	10300	per order
+02W	CC-F11	b	13750	per order
+02W	CC-F12	b	16575	per order
+02W	CC-F13	b	15175	per order
+02W	CC-F14	b	13180	per order
+02W	CC-F15	b	14350	per order
+02W	CC-F16	b	12975	per order
+02W	CC-F01	c_o	640	per order
+02W	CC-F02	c_o	640	per order
+02W	CC-F03	c_o	660	per order
+02W	CC-F04	c_o	700	per order
+02W	CC-F05	c_o	840	per order
+02W	CC-F06	c_o	600	per order
+02W	CC-F11	c_o	820	per order
+02W	CC-F12	c_o	1000	per order
+02W	CC-F13	c_o	900	per order
+02W	CC-F14	c_o	780	per order
+02W	CC-F15	c_o	860	per order
+02W	CC-F16	c_o	780	per order
+02N	CC-F01	h	0.19	per unit per time
+02N	CC-F02	h	0.28	per unit per time
+02N	CC-F03	h	0.29	per unit per time
+02N	CC-F04	h	0.17	per unit per time
+02N	CC-F05	h	0.16	per unit per time
+02N	CC-F06	h	0.32	per unit per time
+02N	CC-F11	h	0.34	per unit per time
+02N	CC-F12	h	0.51	per unit per time
+02N	CC-F13	h	0.52	per unit per time
+02N	CC-F14	h	0.29	per unit per time
+02N	CC-F15	h	0.27	per unit per time
+02N	CC-F16	h	0.6	per unit per time
+02N	CC-F01	b	10700	per order
+02N	CC-F02	b	10650	per order
+02N	CC-F03	b	11250	per order
+02N	CC-F04	b	11750	per order
+02N	CC-F05	b	14175	per order
+02N	CC-F06	b	10300	per order
+02N	CC-F11	b	13750	per order
+02N	CC-F12	b	16575	per order
+02N	CC-F13	b	15175	per order
+02N	CC-F14	b	13180	per order
+02N	CC-F15	b	14350	per order
+02N	CC-F16	b	12975	per order
+02N	CC-F01	c_o	640	per order
+02N	CC-F02	c_o	640	per order
+02N	CC-F03	c_o	660	per order
+02N	CC-F04	c_o	700	per order
+02N	CC-F05	c_o	840	per order
+02N	CC-F06	c_o	600	per order
+02N	CC-F11	c_o	820	per order
+02N	CC-F12	c_o	1000	per order
+02N	CC-F13	c_o	900	per order
+02N	CC-F14	c_o	780	per order
+02N	CC-F15	c_o	860	per order
+02N	CC-F16	c_o	780	per order
+02S	CC-F01	h	0.19	per unit per time
+02S	CC-F02	h	0.28	per unit per time
+02S	CC-F03	h	0.29	per unit per time
+02S	CC-F04	h	0.17	per unit per time
+02S	CC-F05	h	0.16	per unit per time
+02S	CC-F06	h	0.32	per unit per time
+02S	CC-F11	h	0.34	per unit per time
+02S	CC-F12	h	0.51	per unit per time
+02S	CC-F13	h	0.52	per unit per time
+02S	CC-F14	h	0.29	per unit per time
+02S	CC-F15	h	0.27	per unit per time
+02S	CC-F16	h	0.6	per unit per time
+02S	CC-F01	b	10700	per order
+02S	CC-F02	b	10650	per order
+02S	CC-F03	b	11250	per order
+02S	CC-F04	b	11750	per order
+02S	CC-F05	b	14175	per order
+02S	CC-F06	b	10300	per order
+02S	CC-F11	b	13750	per order
+02S	CC-F12	b	16575	per order
+02S	CC-F13	b	15175	per order
+02S	CC-F14	b	13180	per order
+02S	CC-F15	b	14350	per order
+02S	CC-F16	b	12975	per order
+02S	CC-F01	c_o	640	per order
+02S	CC-F02	c_o	640	per order
+02S	CC-F03	c_o	660	per order
+02S	CC-F04	c_o	700	per order
+02S	CC-F05	c_o	840	per order
+02S	CC-F06	c_o	600	per order
+02S	CC-F11	c_o	820	per order
+02S	CC-F12	c_o	1000	per order
+02S	CC-F13	c_o	900	per order
+02S	CC-F14	c_o	780	per order
+02S	CC-F15	c_o	860	per order
+02S	CC-F16	c_o	780	per order

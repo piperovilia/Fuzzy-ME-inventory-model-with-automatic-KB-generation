@@ -1,0 +1,16 @@
+from	to	material_code	cost	unit
+02	02S	CC-F01	0.27	per unit
+02	02W	CC-F01	0.27	per unit
+02	02N	CC-F01	0.27	per unit
+P	02	CC-F01	0	per unit
+V1	P	CC-R01	0	per unit
+V1	P	CC-R02	0	per unit
+02W	GC02W	CC-F01	0	per unit
+02W	IG02W	CC-F01	0	per unit
+02W	H02W	CC-F01	0	per unit
+02N	GC02N	CC-F01	0	per unit
+02N	IG02N	CC-F01	0	per unit
+02N	H02N	CC-F01	0	per unit
+02S	GC02S	CC-F01	0	per unit
+02S	IG02S	CC-F01	0	per unit
+02S	H02S	CC-F01	0	per unit
