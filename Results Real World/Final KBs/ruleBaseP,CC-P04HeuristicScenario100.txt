@@ -1,0 +1,23 @@
+Rules
+low medium low low high 
+low medium low high high 
+medium medium high high medium 
+medium low low high low 
+medium low high high medium 
+low medium medium high high 
+low medium high high low 
+medium high low low medium 
+low low medium low medium 
+medium low low low high 
+medium low medium high high 
+low low low low medium 
+low high medium low medium 
+low high low low medium 
+high medium low low medium 
+medium high high low high 
+low medium high low low 
+low low high low medium 
+low medium medium low medium 
+medium medium medium high low 
+low low low high medium 
+medium medium low low low 
